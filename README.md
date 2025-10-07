@@ -1,7 +1,7 @@
 ## Olá, Eu sou o GuilhermeFrancisco670
 
 - 🔭 Hoje Estou Cursando Engenharia de Sowftware
-- 🌱 Etudando HTML
+- 🌱 Etudando C
 - 📫 Como entrar em contato comigo: gui.f.m.martinelli@gmail.com
 - 😄 Pronomes: ele/dele
 
@@ -14,7 +14,7 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  
 </div>
 
