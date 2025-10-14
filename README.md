@@ -1,7 +1,8 @@
 ## Olá, Eu sou o GuilhermeFrancisco670
 
 - 🔭 Hoje Estou Cursando Engenharia de Sowftware
-- 🌱 Etudando C
+- 🌱 Estudando C
+- 🕹️ Estudando e️ Criando com a Unreal Engine
 - 📫 Como entrar em contato comigo: gui.f.m.martinelli@gmail.com
 - 😄 Pronomes: ele/dele
 
@@ -14,7 +15,7 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Gui-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gui-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
  
 </div>
 
