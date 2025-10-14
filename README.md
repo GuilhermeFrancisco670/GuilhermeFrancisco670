@@ -1,6 +1,6 @@
 ## Olá, Eu sou o GuilhermeFrancisco670
 
-- 🔭 Hoje Estou Cursando Engenharia de Sowftware
+- 🔭 Hoje Estou Cursando Engenharia de Sowftware na Unicesumar
 - 🌱 Estudando C
 - 🕹️ Estudando e️ Criando com a Unreal Engine
 - 📫 Como entrar em contato comigo: gui.f.m.martinelli@gmail.com
