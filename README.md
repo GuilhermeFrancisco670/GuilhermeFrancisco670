@@ -15,8 +15,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  
+  ### Linguagens e Soffware
   <img align="center" alt="Gui-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
  
 </div>
 
