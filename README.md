@@ -2,9 +2,10 @@
 
 - 🔭 Hoje Estou Cursando Engenharia de Sowftware na Unicesumar
 - 🌱 Estudando C
+-    Estudando HTML
 - 🕹️ Estudando e️ Criando com a Unreal Engine
 - 📫 Como entrar em contato comigo: gui.f.m.martinelli@gmail.com
-- 😄 Pronomes: ele/dele
+  
 
 <div>
   <a href="https://github.com/GuilhermeFrancisco670">
