@@ -2,7 +2,7 @@
 
 - 🔭 Hoje Estou Cursando Engenharia de Sowftware na Unicesumar
 - 🌱 Estudando C
--  H Estudando HTML
+- 👨‍💻 Estudando HTML, CSS e JS
 - 🕹️ Estudando e️ Criando com a Unreal Engine
 - 📫 Como entrar em contato comigo: gui.f.m.martinelli@gmail.com
   
