@@ -1,30 +1,29 @@
 ## Olá, Eu sou o GuilhermeFrancisco670
 
-- 🔭 Hoje Estou Cursando Engenharia de Sowftware na Unicesumar
+- 🔭 Hoje estou cursando Engenharia de Software na Unicesumar.
 - 🌱 Estudando C
 - 👨‍💻 Estudando HTML, CSS e JS
-- 🕹️ Estudando e️ Criando com a Unreal Engine
+- 🕹️ Estudando e criando com a Unreal Engine.
 - 📫 Como entrar em contato comigo: gui.f.m.martinelli@gmail.com
-  
 
 <div>
   <a href="https://github.com/GuilhermeFrancisco670">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFrancisco670&show_icons=false&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFrancisco670&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFrancisco670&layout=compact&langs_count=16&theme=chartreuse-dark"/>
   </a>
 </div>
-### Linguagens e Soffware
+
+### Linguagens e Software
 <div style="display: inline_block"><br>
-  
   <img align="center" alt="Gui-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Gui-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Gui-Unreal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg">
   <img src="https://skillicons.dev/icons?i=html,css,github" />
- 
 </div>
 
 ##
 
 <div>
-
-  <a href="mailto:gui.f.m.martinelli@gmail.com.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:gui.f.m.martinelli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-martinelli-francisco-23b171361" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+</div>
