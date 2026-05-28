@@ -1,7 +1,7 @@
 # Olá, eu sou o Guilherme Martinelli! 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/guilherme-martinelli-francisco-23b171361" target="_blank">
+  <a href="www.linkedin.com/in/guilherme-francisco-moreira-martinelli-23b171361" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gui.f.m.martinelli@gmail.com">
