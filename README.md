@@ -1,7 +1,7 @@
 # Olá, eu sou o Guilherme Martinelli! 👋
 
 <p align="left">
-  <a href="www.linkedin.com/in/guilherme-francisco-moreira-martinelli-23b171361" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-francisco-moreira-martinelli-23b171361" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gui.f.m.martinelli@gmail.com">
@@ -30,7 +30,7 @@ Sou estudante de **Engenharia de Software na Unicesumar** focado no desenvolvime
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="left">
-  <a href="https://github.com/GuilhermeFrancisco670">
+  <a href="[https://github.com/GuilhermeFrancisco670](https://github-readme-stats-sigma-five.vercel.app/api)">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFrancisco670&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFrancisco670&layout=compact&langs_count=16&theme=ocean_dark" />
   </a>
