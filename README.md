@@ -12,17 +12,17 @@
 ### 🚀 Sobre Mim
 Sou estudante de **Engenharia de Software na Unicesumar** focado no desenvolvimento de sistemas, lógica avançada e arquitetura de software. Busco conectar fundamentos robustos de engenharia de dados à criação de lógicas interativas e simulações em tempo real.
 
-- 🔭 **Momento Atual:** Aprofundando em Estruturas de Dados, Algoritmos e lógica de baixo nível.
-- ⚙️ **Desenvolvimento:** Criando e estruturando mecânicas, lógicas interativas e projetos na **Unreal Engine**.
-- 🌐 **Web Stack:** Consolidando conhecimentos em desenvolvimento web moderno (HTML5, CSS3 e JavaScript).
 - 🌱 **Evolução Contínua:** Explorando boas práticas de programação, padrões de projeto e Clean Code.
+- ⚙️ **Desenvolvimento:** Criando e estruturando mecânicas, lógicas interativas e projetos na **Unreal Engine** e no **Godot Engine**.
+- 🔭 **Momento Atual:** Aprofundando em Estruturas de Dados, Algoritmos, desenvolvimento web, Engenharia de requisitos, Banco de Dados mySQL e Programação Orientada a Objetos.
+
 
 ---
 
 ### 💻 Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,unreal,js,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=notion,c,vscode,html,css,js,idea,java,figma,mysql,git,github,unreal,godot,blender" />
 </p>
 
 ---
