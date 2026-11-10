@@ -22,7 +22,7 @@ Sou estudante de **Engenharia de Software na Unicesumar** focado no desenvolvime
 ### 💻 Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linkedin,notion,c,vscode,html,css,js,codepen,idea,java,figma,mysql,git,github,md,windows,unreal,godot,blender,nodejs,gmail" />
+  <img src="https://skillicons.dev/icons?i=linkedin,notion,c,vscode,html,css,js,codepen,idea,java,figma,mysql,git,github,md,windows,unreal,godot,blender,nodejs,gmail,obsidian" />
 </p>
 
 ---
